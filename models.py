@@ -55,7 +55,6 @@ class MenuItem:
             "popularity_rating": self.popularity_rating,
         }
 
-
 class Menu:
     def __init__(self):
         self.items = []
